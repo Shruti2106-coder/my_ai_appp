@@ -1,0 +1,8 @@
+{
+  "name": " VisionVoice Companion",
+  "description": "An AI-powered accessibility assistant that sees, understands, and speaks to help users navigate the world.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
